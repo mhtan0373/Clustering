@@ -1,0 +1,10 @@
+hdbscan
+tensorflow
+streamlit>=1.38.0
+seaborn
+matplotlib
+umap
+umap-learn
+pandas
+numpy
+plotly
